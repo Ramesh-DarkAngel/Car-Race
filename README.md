@@ -9,7 +9,7 @@ Installation:
 1. Download the "Cobra Game.zip" and extract them into your preferred location and folder (Eg: ~Desktop\Car Race).
 2. Just double click the Car Race.exe to play.
 
-Note: You may need python to be installed into your system.
+Note: You may need python to be installed into your system first.
 
 
 Special Credits: Click Clack Code
