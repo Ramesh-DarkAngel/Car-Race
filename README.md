@@ -6,7 +6,7 @@ A simple car game using Python.
 
 Installation:
 
-1. Download the "Cobra Game.zip" and extract them into your preferred location and folder (Eg: ~Desktop\Car Race).
+1. Download the "Car-Race.zip" and extract them into your preferred location and folder (Eg: ~Desktop\Car Race).
 2. Just double click the Car Race.exe to play.
 
 Note: 
